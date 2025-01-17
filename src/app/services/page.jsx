@@ -1,7 +1,6 @@
-"use client"
 import React from 'react'
 
-const Services = () => {
+const page = () => {
   return (
     <div>
       
@@ -9,4 +8,4 @@ const Services = () => {
   )
 }
 
-export default Services
+export default page

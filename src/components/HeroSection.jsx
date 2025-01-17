@@ -53,12 +53,12 @@ const HeroSection = () => {
         complex problems.
       </p>
       <div className="px-1 flex flex-wrap items-center justify-center sm:justify-start space-x-2">
-        <Link
+        {/* <Link
           href="/#contact"
           className="text-sm sm:text-base py-2 px-4 inline-block rounded-full bg-gradient-to-br from-blue-500 to-green-500 hover:bg-slate-200 text-white text-center"
         >
           HireMe
-        </Link>
+        </Link> */}
         <Link
           href={CV_URL}
           target="_blank"
