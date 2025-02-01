@@ -1,4 +1,4 @@
-import Achievements from './Achievement'; // Update the path as necessary
+import Achievements from './Achievements'; // Update the path as necessary
 
 const achievementsList = [
   { metric: "LeetCode Problems Solved", value: "600", postfix: "+" },
